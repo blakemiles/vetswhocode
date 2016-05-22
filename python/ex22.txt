@@ -1,0 +1,27 @@
+print - prints whatever
+arithmetic - + - * / = > < != => <=
+% - used to denote strings or variables
+\n - new line
+""" - long text block
+\t - tab
+\\ - backslash
+raw_input() - asks for input of data and stores as defined variable
+%s - string
+%r - raw
+%d - decimal/integer
+from sys import argv - imports argv module that brings in inputs during CLI call
+prompt - allows for designation of prompt icons
+open(filename, "w" [or "r"]) - allows for filename to be opened , write or read permissions
+x.truncate() - elminates excess file space in files
+x.close() - closes file so system no longer accessing while python open
+x.write() - writes to file
+from os.path import exists - verifies file exists
+exists(x) - confirms file exists x
+x.read() - reads file and prints
+len(x) - reports on byte length of filename x
+def x(a, b): - defines function x
+x.seek(n)- returns read function to the n byte
+x.readline() - counts line of a code file
+return - applies results of a calculation to a function
+
+
